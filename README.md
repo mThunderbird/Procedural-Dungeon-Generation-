@@ -69,4 +69,4 @@ Built in C++ using SDL2.
 
 ## 🙏 Acknowledgments
 
-- **Delaunay Triangulation**: This project uses a triangulation algorithm taken from [AuthorName's GitHub repository](https://github.com/msokalski/delabella).
+- **Delaunay Triangulation**: This project uses a triangulation algorithm taken from [msokalski's GitHub repository](https://github.com/msokalski/delabella).

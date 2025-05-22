@@ -1,0 +1,5 @@
+Menu_Img: menu.bmp
+
+Play_Path: playBtn.txt
+
+Exit_path: exitBtn.txt

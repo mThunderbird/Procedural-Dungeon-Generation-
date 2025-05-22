@@ -52,9 +52,11 @@ A 2D procedural dungeon generator that arranges rooms in concentric layers, all 
 ---
 
 ## 📂 Repository Structure
+```plaintext
 ├── docs/ # Demo images & video thumbnails
 ├── src/ # C++ source code
 │ └── main.cpp
 ├── include/ # .h files
 ├── Masterclass.sln # Visual Studio solution
 └── README.md
+```

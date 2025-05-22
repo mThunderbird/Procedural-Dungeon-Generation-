@@ -15,7 +15,7 @@ A 2D procedural dungeon generator that arranges rooms in concentric layers, all 
 
 | Room cluster | Room spreading | Rooms and Bridges | Texturing | Rooms zoomed |
 |:----------------------:|:--------------------:| :--------------------:| :--------------------:| :--------------------:|
-| ![Spreading Rooms](media/roomCluster.jpg) | ![Connected Rooms](media/roomSpread.jpg) | ![Connected Rooms](media/roomsAndBridges.jpg) | ![Connected Rooms](media/texturing.jpg) | ![Connected Rooms](media/zoomd.jpg) |
+| ![Spreading Rooms](media/roomCluster.jpg) | ![Connected Rooms](media/roomSpreading.jpg) | ![Connected Rooms](media/roomsAndBridges.jpg) | ![Connected Rooms](media/texturing.jpg) | ![Connected Rooms](media/zoomd.jpg) |
 
 ---
 

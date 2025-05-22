@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+
+# We want to add the .vsxproj.user file because it keeps the library includes
+!Masterclass.vcxproj.user

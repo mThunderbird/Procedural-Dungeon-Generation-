@@ -1,6 +1,12 @@
 # Random Dungeon Generator
 
-A 2D procedural dungeon generator that arranges rooms in concentric layers, all paths leading to a central boss room. Spawn rooms hug the outer ring, event and small boss rooms scatter throughout, and a boss chamber dominates the center. Default rooms fill the gaps. Built in C++ using SDL2.
+A 2D procedural dungeon generator that arranges rooms in concentric layers, all paths leading to a central boss room.
+
+Spawn rooms in the outer ring, event and small boss rooms scattered throughout, and a boss chamber dominates the center. Default rooms fill the gaps.
+
+Very slow due to rendering. Can be optimized to only provide the numerical values describing the resulting dungeon.
+
+Built in C++ using SDL2.
 
 ---
 

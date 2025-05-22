@@ -6,16 +6,16 @@ A 2D procedural dungeon generator that arranges rooms in concentric layers, all 
 
 ## 🎥 Demo
 
-[![Watch the demo video](docs/demo-thumbnail.png)](https://your.video.link.here)  
+[![Watch the demo video](media/roomsAndBridges.jpg)](media/dungenDemo.mp4)  
 *Click to view the full generation process in action.*
 
 ---
 
 ## 📸 Screenshots
 
-| Generation in Progress | Final Dungeon Layout |
-|:----------------------:|:--------------------:|
-| ![Spreading Rooms](docs/spread.gif) | ![Connected Rooms](docs/final-layout.png) |
+| Room cluster | Room spreading | Rooms and Bridges | Texturing | Rooms zoomed |
+|:----------------------:|:--------------------:| :--------------------:| :--------------------:| :--------------------:|
+| ![Spreading Rooms](media/roomCluster.jpg) | ![Connected Rooms](media/roomSpread.jpg) | ![Connected Rooms](media/roomsAndBridges.jpg) | ![Connected Rooms](media/texturing.jpg) | ![Connected Rooms](media/zoomd.jpg) |
 
 ---
 

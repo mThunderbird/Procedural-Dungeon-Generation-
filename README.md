@@ -66,3 +66,7 @@ Built in C++ using SDL2.
 ├── Masterclass.sln # Visual Studio solution
 └── README.md
 ```
+
+## 🙏 Acknowledgments
+
+- **Delaunay Triangulation**: This project uses a triangulation algorithm taken from [AuthorName's GitHub repository](https://github.com/msokalski/delabella).

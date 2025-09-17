@@ -10,14 +10,14 @@ Built in C++ using SDL2.
 
 ---
 
-## 🎥 Demo
+## Demo
 
 [![Watch the demo video](media/roomsAndBridges.jpg)](media/dungenDemo.mp4)  
 *Click to view the full generation process in action.*
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Room cluster | Room spreading | Rooms and Bridges | Texturing | Rooms zoomed |
 |:----------------------:|:--------------------:| :--------------------:| :--------------------:| :--------------------:|
@@ -25,7 +25,7 @@ Built in C++ using SDL2.
 
 ---
 
-## 🛠️ Setup & Run
+## Setup & Run
 
 1. **Clone or download** this repo (ZIP)  
 2. **Open** `Masterclass.sln` in **Visual Studio**  
@@ -37,14 +37,14 @@ Built in C++ using SDL2.
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. **Room Generation**  
    - Create random-width rectangles at the origin.  
 2. **Spreading**  
    - Iteratively move rooms outwards until no collisions remain.  
 3. **Role Assignment**  
-   - Calculate each room’s distance to center; assign Spawn/Event/Default/Boss.  
+   - Calculate each room’s distance to the centre; assign Spawn/Event/Default/Boss.  
 4. **Pruning**  
    - Randomly delete a subset of default rooms to add variety.  
 5. **Connectivity**  
@@ -55,6 +55,6 @@ Built in C++ using SDL2.
 7. **Interactive Camera**  
    - Zoom in; after a single click, use arrow keys to navigate the completed dungeon.
 ---
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Delaunay Triangulation**: This project uses a triangulation algorithm taken from [msokalski's GitHub repository](https://github.com/msokalski/delabella).
